@@ -2,13 +2,13 @@
 
 <h2> <a href="https://orcid.org/0000-0003-3381-5911">Andrew R. McCluskey</a>,<sup>1,2</sup>
 <a href="https://orcid.org/0000-0001-6059-497X">Adam R. Symington</a>,<sup>1</sup>
-<a href="https://orcid.org/0000-0001-7146-6885">J. F. Timothy B. Snow</a>,<sup>2</sup>
-<a href="https://orcid.org/0000-0003-1362-2055">James Grant</a>,<sup>3</sup>
+<a href="https://orcid.org/0000-0001-7146-6885">J. F. Timothy B. Snow</a>,<sup>2,3</sup>
+<a href="https://orcid.org/0000-0003-1362-2055">James Grant</a>,<sup>4</sup>
 <a href="https://orcid.org/0000-0002-3056-8233">Benjamin J. Morgan</a>,<sup>1</sup>
 <a href="https://orcid.org/0000-0003-3804-0975">Stephen C. Parker</a>,<sup>1</sup> and
 <a href="https://orcid.org/0000-0001-5822-0127">Karen J. Edler</a><sup>1</sup>
 
-<h4> <sup>1</sup> Department of Chemistry, University of Bath, Claverton Down, Bath, BA2 7AY, UK. <br><sup>2</sup> Diamond Light Source, Diamond House, Rutherford Appleton Laboratory, Harwell Oxford, OX11 0DE, UK. <br><sup>3</sup> Computing Services, University of Bath, Claverton Down, Bath, BA2 7AY, UK. </h4>
+<h4> <sup>1</sup> Department of Chemistry, University of Bath, Claverton Down, Bath, BA2 7AY, UK. <br><sup>2</sup> Diamond Light Source, Diamond House, Rutherford Appleton Laboratory, Harwell Oxford, OX11 0DE, UK. <br><sup>3</sup> School of Chemistry, University of Bristol, Bristol, BS8 1TS, UK. <br><sup>4</sup> Computing Services, University of Bath, Claverton Down, Bath, BA2 7AY, UK. </h4>
 
 This is the repository for an open educational resource designed to introduce users of scattering and diffraction to molecular simulation. 
 This is inspired by the popularity of molecular dynamics simulations as a tool to aid in the analysis of scattering experiments. 
